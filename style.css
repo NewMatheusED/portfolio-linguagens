@@ -160,7 +160,7 @@ header {
 }
 
 .item-1-mosaico {
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     width: 55%;
